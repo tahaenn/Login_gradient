@@ -1,2 +1,2 @@
 # Login_gradient
-A simole login gradient
+A simple login gradient
